@@ -1,0 +1,15 @@
+{
+  "name": "puppeteer-demo",
+  "version": "1.0.0",
+  "description": "- [中文文档](https://zhaoqize.github.io/puppeteer-api-zh_CN/#/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "puppeteer": "^10.4.0"
+  }
+}
